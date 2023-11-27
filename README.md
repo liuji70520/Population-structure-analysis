@@ -23,3 +23,5 @@
 ## 5. 群体结构分析的案例研究
 		○ 介绍一些具有代表性的群体结构分析的研究案例
 		○ 分析案例研究中的方法选择，数据处理，结果解析等步骤
+## 参考文献
+[Genome-wide association studies provide insights into the genetic determination of fruit traits of pear](https://doi.org/10.1038/s41467-021-21378-y)
