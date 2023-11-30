@@ -12,7 +12,9 @@
 最后，我们可以根据PCA的结果，将沙梨样本分为不同的群体，每个群体代表一个可能的亚种。
 
 ![xi](https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-021-21378-y/MediaObjects/41467_2021_21378_Fig1_HTML.png?as=webp)
+
 Phylogenetic relationship and population structure of 312 sand pears. a Phylogenetic tree of sand pears. b Population structure of sand pears. K value is 2. c PCA of sand pears. Group I with red background corresponds to the Chinese group, and Group II with blue background indicates the Japanese and Korea group.
+PCA：运用方差分解，将海量SNP的差异反映在二维坐标图上，坐标轴轴取对样品差异性解释度最高的两个或三个特征值，样本SNP位点信息越相似，反映在PCA图中的距离越近
 ## 2. 群体结构分析的方法
 		○ 分子标记在群体结构分析中的应用
 		○ 常用的群体结构分析软件和工具，例如STRUCTURE，ADMIXTURE，fastSTRUCTURE等
