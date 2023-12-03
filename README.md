@@ -1,4 +1,4 @@
-# 群体结构分析
+# 群体结构分析指南
 
 ## 1、群体结构分析的概念和重要性                                 
 ### 群体结构的定义
@@ -6,6 +6,7 @@
 比如我们研究一种在东南亚的沙梨，通过PCA等方法把中国和朝鲜半岛与日本的沙梨分为三个亚群。（T：这三个亚群就是群体结构）
 ### 群体结构分析的目的和应用
 群体结构分析最突出的一点是它能够通过主成分分析（PCA）（T:principal component analysis）、系统进化树、structure等方法，反映遗传变异在物种或群体的分布，推断群体数目，判断某个体属于哪个群体。这种分析能够提供个体的血统来源及其组成信息，是一种重要的遗传关系分析手段。
+
 
 （计划高亮分行处理）	举例：假设我们正在研究一种沙梨。这种沙梨分布在中国、朝鲜半岛和日本。我们想要了解这些群体之间的遗传差异，以及它们是否形成了不同的亚种。
 首先，我们可以收集来自不同地理位置的沙梨样本，然后提取它们的DNA。通过测序，我们可以得到每个样本的基因组信息。
@@ -22,12 +23,19 @@ PCA：运用方差分解，将海量SNP的差异反映在二维坐标图上，�
 
 
 
-## 4. 群体结构分析的步骤
-		○ 数据准备：如何获取和处理用于群体结构分析的数据
-		○ 参数设置：如何根据研究目标和数据特性设置参数
-		○ 结果解析：如何理解和解释群体结构分析的结果
-## 5. 群体结构分析的案例研究
-		○ 介绍一些具有代表性的群体结构分析的研究案例
-		○ 分析案例研究中的方法选择，数据处理，结果解析等步骤
+## 3. 群体结构分析的步骤
+🪗软件准备
+[Structure官网下载](https://web.stanford.edu/group/pritchardlab/structure_software/release_versions/v2.3.4/html/structure.html)
+
+☕数据准备
+[.vcf文件格式解读（内含其他各种生信常见格式解读）](https://learn.gencore.bio.nyu.edu/ngs-file-formats/vcf-format/)
+
+[本次所用.vcf数据下载链接](https://www.ncbi.nlm.nih.gov/tools/gbench/tutorial8/)
+
+[Structure详细教程](https://zhuanlan.zhihu.com/p/383141001)
+
+
+
+vcf格式解读：[.vcf](https://learn.gencore.bio.nyu.edu/ngs-file-formats/vcf-format)
 ## 参考文献
 [Genome-wide association studies provide insights into the genetic determination of fruit traits of pear](https://doi.org/10.1038/s41467-021-21378-y)
