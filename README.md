@@ -33,6 +33,5 @@ PCA：运用方差分解，将海量SNP的差异反映在二维坐标图上，�
 
 
 
-vcf格式解读：[.vcf](https://learn.gencore.bio.nyu.edu/ngs-file-formats/vcf-format)
 ## 参考文献
 [Genome-wide association studies provide insights into the genetic determination of fruit traits of pear](https://doi.org/10.1038/s41467-021-21378-y)
