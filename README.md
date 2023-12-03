@@ -28,9 +28,6 @@ PCA：运用方差分解，将海量SNP的差异反映在二维坐标图上，�
 [Structure官网下载](https://web.stanford.edu/group/pritchardlab/structure_software/release_versions/v2.3.4/html/structure.html)
 
 ☕数据准备
-[.vcf文件格式解读（内含其他各种生信常见格式解读）](https://learn.gencore.bio.nyu.edu/ngs-file-formats/vcf-format/)
-
-[本次所用.vcf数据下载链接](https://www.ncbi.nlm.nih.gov/tools/gbench/tutorial8/)
 
 [Structure详细教程](https://zhuanlan.zhihu.com/p/383141001)
 
